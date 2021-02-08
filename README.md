@@ -16,18 +16,34 @@ In Step 4, generate the summary statistics for the June temperatures DataFrame.
 
 **Deliverable 1 Products**
 1. A working query is written to retrieve the June temperatures from the date column of the Measurement table. 
+![](Resources/D1.1.1.png)
+![](Resources/D1.1.png)
+
 2. The temperatures are added to a list.
+![](Resources/D1.2.png)
+
 3. The list of temperatures is converted to a Pandas DataFrame.
+![](Resources/D1.3.png)
+
 4. Summary statistics are generated for the DataFrame.
+![](Resources/D1.5.png)
+
 
 # Deliverable 2: Determine the Summary Statistics for December
 Using Python, Pandas functions and methods, and SQLAlchemy, you’ll filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of December. You’ll then convert those temperatures to a list, create a DataFrame from the list, and generate the summary statistics. 
 
 **Deliverable 2 Products**
 1. A working query is written to retrieve the December temperatures from the date column of the Measurement table.
+![](Resources/D2.1.png)
+
 2. The temperatures are added to a list.
+![](Resources/D2.2.png)
+
 3. The list of temperatures is converted to a Pandas DataFrame.
+![](Resources/D2.3.png)
+
 4. Summary statistics are generated for the DataFrame.
+![](Resources/D2.4.png)
 
 # Deliverable 3: A written report for the statistical analysis
 A report that describes the key differences in weather between June and December and two recommendations for further analysis.
@@ -48,6 +64,8 @@ The written analysis has the following:
 
 1. Overview of the statistical analysis:
 - The purpose of the analysis is well defined.
+
+*please see above for overview and purpose
 
 2. Results:
 - There is a bulleted list that addresses the three key differences in weather between June and December.
