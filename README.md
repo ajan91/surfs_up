@@ -51,6 +51,29 @@ The written analysis has the following:
 
 2. Results:
 - There is a bulleted list that addresses the three key differences in weather between June and December.
+**June Temps
+Count of 1700
+Mean of 74.94
+Std of 3.26
+Min of 64.00
+25% of 73.00
+50% of 75.00
+75% of 77.00
+Max of 85.00**
+    
+**December Temps
+Count of 1517
+Mean of 71.04
+Std of 3.75
+Min of 56.00
+25% of 69.00
+50% of 71.00
+75% of 74.00
+Max of 83.00**
 
 3. Summary:
 - There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.
+
+In conclusion, we can deduce the following from our Data:
+- The Standard deviation is 3.25 in June and 3.75 in Decemeber. This illustrates that the difference between the two seasons is 0.5.
+- We can illustrate that, based on statistics of minimum and maximum, of perceptionation which temporal periods are ideal for business and potential vistors. This could be able to maximise profit when it comes to maintaining a buisness that will succeed. For example, if the perceptiation in December were higher, the likelihood of vistors would be low, showing the need to redirect funds toward June, where there could be a higher profit margin. 
