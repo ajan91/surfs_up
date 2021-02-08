@@ -51,25 +51,26 @@ The written analysis has the following:
 
 2. Results:
 - There is a bulleted list that addresses the three key differences in weather between June and December.
-**June Temps
-Count of 1700
-Mean of 74.94
-Std of 3.26
-Min of 64.00
-25% of 73.00
-50% of 75.00
-75% of 77.00
-Max of 85.00**
+
+  June Temps
+  - Count of 1700
+  - Mean of 74.94
+  - Std of 3.26
+  - Min of 64.00
+  - 25% of 73.00
+  - 50% of 75.00
+  - 75% of 77.00
+  - Max of 85.00
     
-**December Temps
-Count of 1517
-Mean of 71.04
-Std of 3.75
-Min of 56.00
-25% of 69.00
-50% of 71.00
-75% of 74.00
-Max of 83.00**
+  December Temps
+  - Count of 1517
+  - Mean of 71.04
+  - Std of 3.75
+  - Min of 56.00
+  - 25% of 69.00
+  - 50% of 71.00
+  - 75% of 74.00
+  - Max of 83.00
 
 3. Summary:
 - There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.
